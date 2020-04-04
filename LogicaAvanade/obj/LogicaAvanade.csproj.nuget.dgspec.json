@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Avanade\\source\\repos\\LogicaAvanade\\LogicaAvanade\\LogicaAvanade.csproj": {}
+    "C:\\Users\\Mirian\\Documents\\AvanadeAula1\\LogicaAvanade\\LogicaAvanade.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Avanade\\source\\repos\\LogicaAvanade\\LogicaAvanade\\LogicaAvanade.csproj": {
+    "C:\\Users\\Mirian\\Documents\\AvanadeAula1\\LogicaAvanade\\LogicaAvanade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Avanade\\source\\repos\\LogicaAvanade\\LogicaAvanade\\LogicaAvanade.csproj",
+        "projectUniqueName": "C:\\Users\\Mirian\\Documents\\AvanadeAula1\\LogicaAvanade\\LogicaAvanade.csproj",
         "projectName": "LogicaAvanade",
-        "projectPath": "C:\\Users\\Avanade\\source\\repos\\LogicaAvanade\\LogicaAvanade\\LogicaAvanade.csproj",
-        "packagesPath": "C:\\Users\\Avanade\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Avanade\\source\\repos\\LogicaAvanade\\LogicaAvanade\\obj\\",
+        "projectPath": "C:\\Users\\Mirian\\Documents\\AvanadeAula1\\LogicaAvanade\\LogicaAvanade.csproj",
+        "packagesPath": "C:\\Users\\Mirian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mirian\\Documents\\AvanadeAula1\\LogicaAvanade\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Avanade\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Mirian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -52,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

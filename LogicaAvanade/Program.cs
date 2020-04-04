@@ -1,38 +1,42 @@
 ﻿using System;
 
-namespace LogicaAvanade
+namespace ExercicioAvanade2
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int a, b;
-            Console.WriteLine("Digite o primeiro número da operação");
-            try
-            {
-                a = Convert.ToInt32(Console.ReadLine());
-            }
-            catch
-            {
-                Console.WriteLine("Erro no sistema, você precisa digitar um número");
-                return;
-            }
-            
-            Console.WriteLine("Digite o segundo número da operação");
-            try
-            {
-                b = Convert.ToInt32(Console.ReadLine());
-            }
-            catch
-            {
-                Console.WriteLine("Erro no sistema, você precisa digitar um número");
-                return;
-            }
-            int c = a + b;
+            double vale, salario, total;
 
-            Console.WriteLine("O resultado da operação é:" + c);
-            
-            Console.ReadLine();
+            Console.WriteLine("Digite o valor do vale: ");
+            try
+            {
+                vale = Convert.ToDouble(Console.ReadLine());
+            }
+            catch
+            {
+                Console.WriteLine("Erro no sistema, informe o valor");
+                return;
+            }
+            Console.WriteLine("Digite o valor do salário: ");
+            try
+            {
+                salario = Convert.ToDouble(Console.ReadLine());
+            }
+            catch
+            {
+                Console.WriteLine("Erro no sistema, informe o valor");
+                return;
+            }
+            total = vale + salario;
+            Console.WriteLine("O resultado da operação é: " + total);
+
+            if (total <= 3000)
+            {
+                total = (total * 1.05);
+                Console.WriteLine("O novo salário é: " + total);
+                return;
+            }
         }
     }
 }

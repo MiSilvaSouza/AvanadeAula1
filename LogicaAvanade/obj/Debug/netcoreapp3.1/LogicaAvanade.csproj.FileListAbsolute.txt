@@ -11,3 +11,16 @@ C:\Users\Avanade\source\repos\LogicaAvanade\LogicaAvanade\obj\Debug\netcoreapp3.
 C:\Users\Avanade\source\repos\LogicaAvanade\LogicaAvanade\obj\Debug\netcoreapp3.1\LogicaAvanade.dll
 C:\Users\Avanade\source\repos\LogicaAvanade\LogicaAvanade\obj\Debug\netcoreapp3.1\LogicaAvanade.pdb
 C:\Users\Avanade\source\repos\LogicaAvanade\LogicaAvanade\obj\Debug\netcoreapp3.1\LogicaAvanade.genruntimeconfig.cache
+C:\Users\Mirian\Documents\AvanadeAula1\LogicaAvanade\bin\Debug\netcoreapp3.1\LogicaAvanade.exe
+C:\Users\Mirian\Documents\AvanadeAula1\LogicaAvanade\bin\Debug\netcoreapp3.1\LogicaAvanade.deps.json
+C:\Users\Mirian\Documents\AvanadeAula1\LogicaAvanade\bin\Debug\netcoreapp3.1\LogicaAvanade.runtimeconfig.json
+C:\Users\Mirian\Documents\AvanadeAula1\LogicaAvanade\bin\Debug\netcoreapp3.1\LogicaAvanade.runtimeconfig.dev.json
+C:\Users\Mirian\Documents\AvanadeAula1\LogicaAvanade\bin\Debug\netcoreapp3.1\LogicaAvanade.dll
+C:\Users\Mirian\Documents\AvanadeAula1\LogicaAvanade\bin\Debug\netcoreapp3.1\LogicaAvanade.pdb
+C:\Users\Mirian\Documents\AvanadeAula1\LogicaAvanade\obj\Debug\netcoreapp3.1\LogicaAvanade.csprojAssemblyReference.cache
+C:\Users\Mirian\Documents\AvanadeAula1\LogicaAvanade\obj\Debug\netcoreapp3.1\LogicaAvanade.csproj.CoreCompileInputs.cache
+C:\Users\Mirian\Documents\AvanadeAula1\LogicaAvanade\obj\Debug\netcoreapp3.1\LogicaAvanade.AssemblyInfoInputs.cache
+C:\Users\Mirian\Documents\AvanadeAula1\LogicaAvanade\obj\Debug\netcoreapp3.1\LogicaAvanade.AssemblyInfo.cs
+C:\Users\Mirian\Documents\AvanadeAula1\LogicaAvanade\obj\Debug\netcoreapp3.1\LogicaAvanade.dll
+C:\Users\Mirian\Documents\AvanadeAula1\LogicaAvanade\obj\Debug\netcoreapp3.1\LogicaAvanade.pdb
+C:\Users\Mirian\Documents\AvanadeAula1\LogicaAvanade\obj\Debug\netcoreapp3.1\LogicaAvanade.genruntimeconfig.cache

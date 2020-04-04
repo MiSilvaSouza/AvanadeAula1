@@ -11,3 +11,16 @@ C:\Users\Avanade\source\repos\LogicaAvanade\Exercicio\obj\Debug\netcoreapp3.1\Ex
 C:\Users\Avanade\source\repos\LogicaAvanade\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.dll
 C:\Users\Avanade\source\repos\LogicaAvanade\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.pdb
 C:\Users\Avanade\source\repos\LogicaAvanade\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.genruntimeconfig.cache
+C:\Users\Mirian\Documents\AvanadeAula1\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.exe
+C:\Users\Mirian\Documents\AvanadeAula1\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.deps.json
+C:\Users\Mirian\Documents\AvanadeAula1\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.runtimeconfig.json
+C:\Users\Mirian\Documents\AvanadeAula1\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.runtimeconfig.dev.json
+C:\Users\Mirian\Documents\AvanadeAula1\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.dll
+C:\Users\Mirian\Documents\AvanadeAula1\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.pdb
+C:\Users\Mirian\Documents\AvanadeAula1\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.csprojAssemblyReference.cache
+C:\Users\Mirian\Documents\AvanadeAula1\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Mirian\Documents\AvanadeAula1\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.AssemblyInfoInputs.cache
+C:\Users\Mirian\Documents\AvanadeAula1\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.AssemblyInfo.cs
+C:\Users\Mirian\Documents\AvanadeAula1\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.dll
+C:\Users\Mirian\Documents\AvanadeAula1\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.pdb
+C:\Users\Mirian\Documents\AvanadeAula1\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.genruntimeconfig.cache

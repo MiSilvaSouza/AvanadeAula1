@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Avanade\\source\\repos\\LogicaAvanade\\Exercicio\\Exercicio.csproj": {}
+    "C:\\Users\\Mirian\\Documents\\AvanadeAula1\\Exercicio\\Exercicio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Avanade\\source\\repos\\LogicaAvanade\\Exercicio\\Exercicio.csproj": {
+    "C:\\Users\\Mirian\\Documents\\AvanadeAula1\\Exercicio\\Exercicio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Avanade\\source\\repos\\LogicaAvanade\\Exercicio\\Exercicio.csproj",
+        "projectUniqueName": "C:\\Users\\Mirian\\Documents\\AvanadeAula1\\Exercicio\\Exercicio.csproj",
         "projectName": "Exercicio",
-        "projectPath": "C:\\Users\\Avanade\\source\\repos\\LogicaAvanade\\Exercicio\\Exercicio.csproj",
-        "packagesPath": "C:\\Users\\Avanade\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Avanade\\source\\repos\\LogicaAvanade\\Exercicio\\obj\\",
+        "projectPath": "C:\\Users\\Mirian\\Documents\\AvanadeAula1\\Exercicio\\Exercicio.csproj",
+        "packagesPath": "C:\\Users\\Mirian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mirian\\Documents\\AvanadeAula1\\Exercicio\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Avanade\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Mirian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -52,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
